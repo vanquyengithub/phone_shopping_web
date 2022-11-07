@@ -1,0 +1,66 @@
+2021-03-14 10:28:40 INFO  LoginController.51 - This is user phone.dtos.UserDTO@58a370eb
+2021-03-14 10:31:56 INFO  LoginController.51 - This is user phone.dtos.UserDTO@5e274d89
+2021-03-14 10:49:03 INFO  LoginController.51 - This is user phone.dtos.UserDTO@20fafb0d
+2021-03-16 08:15:46 INFO  LoginController.44 - This is admin phone.dtos.UserDTO@2da81942
+2021-03-16 08:20:16 INFO  LoginController.44 - This is admin phone.dtos.UserDTO@3c3a0044
+2021-03-16 08:28:06 INFO  LoginController.44 - This is admin phone.dtos.UserDTO@7d62b5ee
+2021-03-16 08:29:32 ERROR CartDAO.86 - com.microsoft.sqlserver.jdbc.SQLServerException: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_tblOrderDetails_tblOrders". The conflict occurred in database "PhoneShoppingWeb", table "dbo.tblOrders", column 'orderID'.
+2021-03-16 08:29:48 INFO  LoginController.51 - This is user phone.dtos.UserDTO@6e6a94ba
+2021-03-16 08:29:59 INFO  LoginController.44 - This is admin phone.dtos.UserDTO@57d8941c
+2021-03-16 08:34:52 ERROR CreateUserController.124 - com.microsoft.sqlserver.jdbc.SQLServerException: Violation of PRIMARY KEY constraint 'PK_tblUsers'. Cannot insert duplicate key in object 'dbo.tblUsers'. The duplicate key value is (lebinht).
+2021-03-16 08:36:08 INFO  LoginController.44 - This is admin phone.dtos.UserDTO@11eb358c
+2021-03-16 09:05:00 ERROR CartDAO.86 - com.microsoft.sqlserver.jdbc.SQLServerException: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_tblOrderDetails_tblOrders". The conflict occurred in database "PhoneShoppingWeb", table "dbo.tblOrders", column 'orderID'.
+2021-03-16 09:05:33 INFO  LoginController.43 - This is admin phone.dtos.UserDTO@45730022
+2021-03-16 09:29:32 ERROR UserDAO.200 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name userID is not valid.
+2021-03-16 09:30:50 ERROR UserDAO.200 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name userID is not valid.
+2021-03-16 09:32:04 ERROR UserDAO.200 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name userID is not valid.
+2021-03-16 09:34:41 ERROR CreateUserController.119 - com.microsoft.sqlserver.jdbc.SQLServerException: Cannot insert the value NULL into column 'roleID', table 'PhoneShoppingWeb.dbo.tblUsers'; column does not allow nulls. INSERT fails.
+2021-03-16 09:37:33 INFO  LoginController.43 - This is admin phone.dtos.UserDTO@7c0b5ad2
+2021-03-16 09:37:57 INFO  LoginController.46 - This is user phone.dtos.UserDTO@48fea61d
+2021-03-16 09:39:01 INFO  LoginController.46 - This is user phone.dtos.UserDTO@38800149
+2021-03-16 09:52:09 INFO  LoginController.43 - This is admin phone.dtos.UserDTO@3bed7365
+2021-03-16 09:55:25 ERROR CartDAO.86 - com.microsoft.sqlserver.jdbc.SQLServerException: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_tblOrderDetails_tblOrders". The conflict occurred in database "PhoneShoppingWeb", table "dbo.tblOrders", column 'orderID'.
+2021-03-16 10:01:15 INFO  LoginController.46 - This is user phone.dtos.UserDTO@22122cbe
+2021-03-16 13:42:22 INFO  LoginController.43 - This is admin phone.dtos.UserDTO@5f8b21b5
+2021-03-16 13:43:15 INFO  LoginController.46 - This is user phone.dtos.UserDTO@2f32a188
+2021-03-16 13:45:39 INFO  LoginController.46 - This is user phone.dtos.UserDTO@51edafe1
+2021-03-16 13:50:04 INFO  LoginController.46 - This is user phone.dtos.UserDTO@21eeb3f
+2021-03-16 13:51:30 INFO  LoginController.46 - This is user phone.dtos.UserDTO@152f3fa4
+2021-03-16 13:57:48 INFO  LoginController.46 - This is user phone.dtos.UserDTO@67051c12
+2021-03-16 14:02:36 INFO  LoginController.46 - This is user phone.dtos.UserDTO@b3c49b3
+2021-03-16 14:07:07 INFO  LoginController.46 - This is user phone.dtos.UserDTO@7cd420c
+2021-03-16 14:09:23 INFO  LoginController.46 - This is user phone.dtos.UserDTO@266566e1
+2021-03-16 14:10:53 ERROR InsertOrderController.69 - java.lang.NullPointerException
+2021-03-16 14:11:37 INFO  LoginController.46 - This is user phone.dtos.UserDTO@7d523f8e
+2021-03-16 14:12:27 ERROR InsertOrderController.69 - java.lang.NullPointerException
+2021-03-16 14:14:14 INFO  LoginController.46 - This is user phone.dtos.UserDTO@73e315f7
+2021-03-16 14:15:37 ERROR InsertOrderController.69 - java.lang.NullPointerException
+2021-03-16 14:23:43 INFO  LoginController.46 - This is user phone.dtos.UserDTO@12e6776
+2021-03-16 14:26:07 ERROR InsertOrderController.69 - java.lang.NullPointerException
+2021-03-16 14:31:01 INFO  LoginController.46 - This is user phone.dtos.UserDTO@59b12e13
+2021-03-16 14:31:20 ERROR CartDAO.86 - com.microsoft.sqlserver.jdbc.SQLServerException: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_tblOrderDetails_tblOrders". The conflict occurred in database "PhoneShoppingWeb", table "dbo.tblOrders", column 'orderID'.
+2021-03-16 14:32:57 ERROR CartDAO.86 - com.microsoft.sqlserver.jdbc.SQLServerException: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_tblOrderDetails_tblOrders". The conflict occurred in database "PhoneShoppingWeb", table "dbo.tblOrders", column 'orderID'.
+2021-03-17 23:28:42 ERROR CartDAO.85 - com.microsoft.sqlserver.jdbc.SQLServerException: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_tblOrderDetails_tblOrders". The conflict occurred in database "PhoneShoppingWeb", table "dbo.tblOrders", column 'orderID'.
+2021-03-18 15:40:27 ERROR SendEmailDAO.61 - com.sun.mail.util.MailConnectException: Couldn't connect to host, port: smtp.gmail.com, 587; timeout -1;
+  nested exception is:
+	java.net.ConnectException: Connection timed out: connect
+2021-03-18 15:41:59 ERROR CheckOutController.80 - java.lang.NullPointerException
+2021-12-14 09:36:39 ERROR SendEmailDAO.61 - javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials w19sm11741076pga.80 - gsmtp
+
+2021-12-14 09:37:39 ERROR SendEmailDAO.61 - javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials o16sm14592533pfu.72 - gsmtp
+
+2021-12-14 09:37:48 ERROR SendEmailDAO.61 - javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials ng9sm449166pjb.4 - gsmtp
+
+2021-12-14 09:39:23 ERROR SendEmailDAO.61 - javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials t3sm14637737pfg.94 - gsmtp
+
+2021-12-14 09:43:16 ERROR SendEmailDAO.61 - javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials u14sm14126102pfi.219 - gsmtp
+
+2022-03-18 14:01:35 ERROR SendEmailDAO.61 - javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials t7-20020a056a0021c700b004f7916d44bcsm8693628pfj.220 - gsmtp
+
+2022-09-23 16:33:04 ERROR ProductDAO.65 - com.microsoft.sqlserver.jdbc.SQLServerException: Login failed for user 'sa'. ClientConnectionId:aea0ced5-a003-4efb-b449-c965a18d1e1e
